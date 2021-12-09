@@ -58,6 +58,7 @@ Explanation 2:
  **------> Code:**
  
  string Solution::solve(string s) {
+ 
     int n=s.length(),x=-1,y;
 
     for(int i=n-1;i>0;i--){
