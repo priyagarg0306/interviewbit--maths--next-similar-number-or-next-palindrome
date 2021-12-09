@@ -1,0 +1,1 @@
+# interviewbit--maths--next-similar-number-or-next-palindrome
